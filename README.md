@@ -110,3 +110,28 @@ Together, these roles ensure the project is not only delivered but also **usable
 
 ---
 
+---
+
+## 🧩 UI Component Patterns
+
+To maintain consistency and reusability across the application, the project will implement modular UI components. These components follow a **design system approach**, ensuring scalability and easier maintenance as the app grows.
+
+### 📌 Planned Components
+
+| Component | Description | Key Features |
+|-----------|-------------|--------------|
+| **Navbar** | A top navigation bar providing global access to key pages and actions. | - Logo & brand name <br> - Navigation links (Home, Browse, Bookings, Profile) <br> - Search bar (optional) <br> - Authentication buttons (Login / Signup) |
+| **Property Card** | A reusable card component to display property listings in grid or list views. | - Property image thumbnail <br> - Title & location <br> - Price per night <br> - Ratings & reviews <br> - “View Details” button |
+| **Footer** | A bottom section of the page that contains helpful links and branding. | - Company info & copyright <br> - Quick links (About, Contact, Terms, Privacy) <br> - Social media icons <br> - Newsletter signup (optional) |
+
+---
+
+### 🎨 Benefits of Using Component Patterns
+- **Reusability:** Components can be reused across multiple pages with different data.  
+- **Consistency:** Shared styling ensures a unified look and feel.  
+- **Maintainability:** Updates to one component automatically reflect across all usages.  
+- **Scalability:** New features can be added by extending existing components rather than rebuilding from scratch.  
+
+---
+
+
