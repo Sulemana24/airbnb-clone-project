@@ -76,3 +76,37 @@ A user-friendly design ensures:
 In short, a well-designed UI/UX makes the platform feel professional, reliable, and easy to use—just like Airbnb itself.  
 
 ---
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+Building an Airbnb Clone requires collaboration across multiple disciplines. Each role plays a key part in ensuring the project’s success.
+
+### 📌 Roles and Responsibilities
+
+| Role | Responsibilities | Contribution to Success |
+|------|------------------|--------------------------|
+| **Project Manager** | - Define project scope, goals, and timelines <br> - Coordinate team tasks and communication <br> - Monitor progress and resolve blockers | Ensures the project runs smoothly, on time, and within scope. |
+| **Frontend Developers** | - Implement UI using React.js & Tailwind CSS <br> - Integrate APIs with the frontend <br> - Ensure responsive and accessible design | Create the user-facing experience that is intuitive and engaging. |
+| **Backend Developers** | - Build RESTful APIs with Node.js & Express.js <br> - Manage database schemas and queries (MySQL/MongoDB) <br> - Implement authentication and business logic | Provide a stable, secure, and scalable backend to power the application. |
+| **Designers (UI/UX)** | - Create wireframes and prototypes <br> - Define visual design, branding, and style guides <br> - Ensure usability and smooth user flows | Enhance user satisfaction and trust through professional and user-friendly design. |
+| **QA/Testers** | - Write and run test cases <br> - Perform functional, integration, and regression testing <br> - Report and track bugs | Guarantee quality by ensuring the app works as expected without critical bugs. |
+| **DevOps Engineers** | - Set up CI/CD pipelines <br> - Manage cloud infrastructure (Vercel, Render, Railway, etc.) <br> - Monitor app performance and scalability | Ensure smooth deployment, reliability, and scalability of the platform. |
+| **Product Owner** | - Define features and prioritize the product backlog <br> - Align development with user needs <br> - Accept or reject completed features | Acts as the voice of the customer, ensuring the product delivers real value. |
+| **Scrum Master** | - Facilitate daily stand-ups and sprint planning <br> - Remove obstacles for the team <br> - Promote agile practices and continuous improvement | Helps the team remain focused, agile, and productive. |
+
+---
+
+### 🏆 Why These Roles Matter
+Each role is interconnected:  
+- **Developers** bring functionality to life.  
+- **Designers** ensure usability and appeal.  
+- **QA/Testers** protect quality.  
+- **DevOps** guarantees smooth delivery.  
+- **Project Manager, Product Owner, and Scrum Master** ensure the team stays aligned, efficient, and focused on delivering value.  
+
+Together, these roles ensure the project is not only delivered but also **usable, reliable, and impactful**.  
+
+---
+
